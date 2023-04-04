@@ -26,8 +26,8 @@ Planetary nebulae (PNe) consist of an ionized envelope surrounding
                 The multiband photometry was used to distinguish between
                 compact and extended PNe and CSPNe (binary CSPNe) by
                 color--color diagram analysis. We found that compact PNe candidates
-                could be identified by using the $ r-i < -0.4 $ and $ -1 < FUV - NUV < 1 $ colors, whereas binary
-                    CSPNe candidates in given $ T_\mathrm{eff} $ ranges (all with color $ r-i> -0.4 $ ) can be
+                could be identified by using the $r-i < -0.4$ and $-1 < FUV - NUV < 1$ colors, whereas binary
+                    CSPNe candidates in given $T_\mathrm{eff}$ ranges (all with color $r-i> -0.4$ ) can be
                     identified in
                     the
-                    color region $ (FUV-NUV) \leq 6(r-i)+1.3 $, $ -0.8 < FUV-NUV < 0.4 $ and $ r-i < 0.75 $.
+                    color region $(FUV-NUV) \leq 6(r-i)+1.3$, $-0.8 < FUV-NUV < 0.4$ and $r-i < 0.75$.
