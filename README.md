@@ -9,7 +9,7 @@ Planetary nebulae (PNe) consist of an ionized envelope surrounding
                 a hot central star (CSPN) that emits mostly at ultraviolet (UV) wavelengths.
                 Ultraviolet observations, therefore, provide important information on both the CSPN and the nebula.
                 We have matched the PNe in The Hong Kong/AAO/Strasbourg
-                H\(\alpha\) (HASH) catalog with the <em>Galaxy Evolution Explorer</em>
+                Hα (HASH) catalog with the <em>Galaxy Evolution Explorer</em>
                 (GALEX) UV sky surveys, the <em>Sloan Digital Sky Survey</em> data
                 release 16 (SDSS), and the <em>Panoramic Survey Telescope and Rapid
                     Response System</em> (Pan-STARRS) PS1 second release.
@@ -18,7 +18,7 @@ Planetary nebulae (PNe) consist of an ionized envelope surrounding
                 detector on (GUVPNcat); 83 were observed by SDSS (PNcatxSDSSDR16)
                 and 1819 by Pan-STARRS (PNcatxPS1MDS). We merged a distilled version of these matched catalogs into
                 GUVPNcatxSDSSDR16xPS1MDS, which contains a total of 375 PNe with
-                both UV and optical photometry over a total spectral coverage of $\sim$1540-9610Å.
+                both UV and optical photometry over a total spectral coverage of ∼1540-9610Å.
                 We analyzed separately 170 PNe resolved in GALEX images and
                 determined their UV radius by applying a flux profile analysis.
                 The CSPN flux could be extracted separately from the PN emission
