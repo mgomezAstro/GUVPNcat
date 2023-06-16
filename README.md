@@ -2,7 +2,11 @@
 
 ### Catalog of planetary nebulae detected by GALEX and corollary optical surveys
 
-Reference: ApJS Accepted for publicaiton.
+DOI: [10.3847/1538-4365/acca77](https://www.doi.org/10.3847/1538-4365/acca77)
+
+MAST High Level Science Products: [10.17909/gbsn-h871](https://www.doi.org/10.17909/gbsn-h871) or [GUVPNcat](https://archive.stsci.edu/hlsp/guvpncat)
+
+Citation: M. A. Gómez-Muñoz et al 2023 ApJS **266** 34
 
 #### Abstract
 Planetary nebulae (PNe) consist of an ionized envelope surrounding
